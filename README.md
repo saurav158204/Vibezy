@@ -1,6 +1,6 @@
 # 🌐 Kindred — Find Your People
 
-> Social discovery, reimagined. Built for **Affecio Hacks '26** (Problem Statement 03).
+> Social discovery, reimagined.
 
 ## 💡 The Problem
 People often struggle to find friends, communities, and activity partners
