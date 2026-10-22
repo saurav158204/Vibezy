@@ -30,9 +30,7 @@ _To be finalized_
 _Setup instructions coming soon._
 
 ## 👨‍💻 Team
-| Name | Role |
-|------|------|
-|      |      |
+syntax slayers
 
 ## 📌 Status
 🚧 Work in progress, hackathon build underway.
