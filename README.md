@@ -131,4 +131,4 @@ GitHub: [@saurav158204](https://github.com/saurav158204)
 
 ⭐ If you like this project, consider starring the repository.
 
-**Kindred — Built with modern web technologies.**
+**Vibezy — Built with modern web technologies.**
